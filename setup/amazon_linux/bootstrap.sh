@@ -216,6 +216,3 @@ else
     exit
   fi
 fi
-
-sudo nginx -s stop
-sudo nginx
