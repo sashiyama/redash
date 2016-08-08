@@ -217,4 +217,5 @@ else
   fi
 fi
 
-service nginx restart
+sudo nginx -s stop
+sudo nginx
